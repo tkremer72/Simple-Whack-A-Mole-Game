@@ -1,0 +1,21 @@
+body {
+     text-align: center;
+}
+.square {
+     width: 200px;
+     height: 200px;
+     border: 1px solid black;
+}
+.grid {
+     margin: auto;
+     display: flex;
+     flex-flow: row wrap;
+     justify-content: center;
+     align-content: center;
+     width: 618px;
+     height: 618px;
+}
+.mole {
+     background-image: url('/assets/images/cartoon-mole2.jpg');
+     background-size: cover;
+}
