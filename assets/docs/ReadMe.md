@@ -6,3 +6,11 @@
 
 # Step 2 
      Double click the index.html file. 
+
+# Functions/Methods Highlighted In This App
+     querySelector()
+     addEventListener()
+     setInterval()
+     classList
+     forEach()
+     Arrow Functions
