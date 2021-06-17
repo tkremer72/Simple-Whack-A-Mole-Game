@@ -14,3 +14,8 @@
      classList
      forEach()
      Arrow Functions
+
+# My Contribution To This Project
+     Centered everything on the page
+     Added a background color
+     Changed the font

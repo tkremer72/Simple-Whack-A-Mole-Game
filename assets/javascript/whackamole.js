@@ -44,7 +44,10 @@ function countDown() {
      if(currentTime === 0) {
           clearInterval(timerId)
           alert('GAME OVER!  Your Final Score Is: ' + result)
+          resetGame(2500)
      }
 }
-
+ function resetGame(t) {
+      setTimeout("location.reload();", t)
+ }
 let timerId = setInterval(countDown, 1000)
